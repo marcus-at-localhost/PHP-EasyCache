@@ -1,5 +1,9 @@
 # Changelog
 
+**1.2.2** :: *February 20, 2021*
+
+- make compatible with PHP 7.4
+
 **1.2.1** :: *February 13, 2016*
 
 - Fixed uncompress bug.
